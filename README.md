@@ -74,3 +74,7 @@ terraform-docs markdown table --output-file README.md --output-mode inject ../..
 ```
 
 **Note:** _`terraform-docs` can be configured on `github actions or pre-commit hooks`_
+
+#### Local state
+
+This repository uses `local state` for testing purposes.
