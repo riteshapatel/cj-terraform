@@ -43,6 +43,7 @@ It's an IDE. It's sole purpose is to author and debug code. Used by `14 million`
     e.g. File Explorer (left panel), Content Editor (center panel), Terminal (bottom panel)
 - Syntax Highlighting
 - Auto-complete with Code IntelliSense
+- Built-in `undo stack`
 - Easy code navigation with minimap
 - Built-in Git support 
 - Wide range of language support, just to name a few are...with complete syntax highlighting, IntelliSense and formatting.
