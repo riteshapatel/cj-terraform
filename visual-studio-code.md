@@ -31,9 +31,6 @@ Can `VIM behave` like an `IDE`? Sure, but not without `deep customization`. By c
 
 This equates to `practice, a learning curve` and most importantly `man hours` before you can master it. There is no `one size fits all`.
 
-**Few Examples of customizations...**
-
-
 
 ### Why add Visual Studio Code?
 
