@@ -27,9 +27,9 @@ At `Census`, IEB AWS team uses `IEBCloud - a linux instance` for developing and 
 
 On the server we use `VI / VIM` to write the `infrastructure code`. What is `VI / VIM`? It's the `ubiquitous text editor i.e. - present, appearing or found everywhere`. It's a text editor, but Linux Enthusiast say `it's more than an editor`. :white_check_mark: Agreed, but not without a deep customization. It is `keyboard heavy`. For almost everything you have to setup `key combinations`. And mind it you have to :brain: remember :brain: `key combinations` until you are `savvy enough` to roam and navigate comfortably in VIM. 
 
-Can `VIM behave` like an `IDE`? Sure, but not without `deep customization`. By customization it means, `find, install and configure plugins`. 
+Can `VIM behave` like an `IDE`? Sure, but not without a `deep customization`. By customization it means, `find, install and configure plugins`. 
 
-This equates to `practice, a learning curve` and most importantly `man hours` before you can master it. There is no `one size fits all`.
+This equates to `practice, a learning curve` and most importantly `man hours` before you can master it. 
 
 
 ### Why add Visual Studio Code?
@@ -109,4 +109,4 @@ For `Linux Enthusiast`, it has a full support of `keyboard bindings`. In other w
 
 ### This is not a debate
 
-This is a proposal to `add` and not `replace`. There is `no one size fits all`. Every developer is different. Has preferred `toolset`. Has deep customizations to their likings. We are not asking to run `Visual Studio Code` on the server. Instead, use it's built-in `SSH capabilities` to increase productivity and take advantage of all the bells / whistles provided by the IDE - the code editor. 
+This is a proposal to `add` and not `replace`. There is `no one size fits all`. Every developer is different. Has preferred `toolset`. Has deep customizations to their likings. We are not asking to run `Visual Studio Code` on the server. Instead, use it's built-in `SSH capabilities` to increase the productivity, development workflow and take advantage of all the bells / whistles provided by the IDE - the code editor. 
